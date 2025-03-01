@@ -18,6 +18,15 @@ To set up the project, follow these steps:
 
 ## Usage
 
+### Database Initialization
+
+Before running the application, it's important to initialize the database. Execute the following command to set up the necessary database tables and initial data:
+
+```bash
+python init_db.py
+```
+
+
 To run the application, execute the following command:
 
 ```bash
